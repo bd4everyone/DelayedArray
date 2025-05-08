@@ -1,0 +1,7 @@
+title: DelayedArray
+url: https://bioconductor.github.io/DelayedArray
+
+template:
+  bootstrap: 5
+  params:
+    bootswatch: flatly
